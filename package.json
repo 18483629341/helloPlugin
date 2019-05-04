@@ -1,0 +1,25 @@
+{
+  "name": "helloPlugin",
+  "version": "0.0.1",
+  "description": "test",
+  "cordova": {
+    "id": "helloPlugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18483629341/helloPlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "lisa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/18483629341/helloPlugin/issues"
+  },
+  "homepage": "https://github.com/18483629341/helloPlugin#readme"
+}
